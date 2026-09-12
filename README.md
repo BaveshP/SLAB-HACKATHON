@@ -4,7 +4,7 @@ A local, read-only research, ticket, and career search console built with Node.j
 
 ## Extract
 
-extract the node module zip file 
+extract the node module zip file
 ## Run
 
 ```bash
